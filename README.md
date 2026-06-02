@@ -3,5 +3,5 @@
   
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects related to use of Machine Learning for decarbonization of energy sector
-- 📫 How to reach me: rahulgh@ntnu.no
+- 📫 How to reach me: rahulghimire77@gmail.com
 
